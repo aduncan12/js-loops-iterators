@@ -561,7 +561,7 @@ You can learn more about the differences between `for` and `while` loops [here](
 Let's look at a temperature converter for an example of a `for` loop.
 
 
-<img src="assets/Slide-34-Thermometer.svg" width="350px">
+<img src="assets/Slide-34-Thermometer.svg" height="350px">
 
 Suppose that we were given an array of starting values to work with &mdash; a group of temperatures in degrees Fahrenheit. Now let's say we want to convert them into another set of values &mdash; temperatures in degrees Celsius &mdash; which would then be stored in a separate array.
 
