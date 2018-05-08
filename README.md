@@ -475,7 +475,7 @@ Despite being one of the most basic ways to iterate through an array in JavaScri
 Let's make a few modifications to our `while` loop from earlier. As you can see, there are a couple of key ingredients to making our `for` loop work.
 
 
-<img src="assets/Slide-27-Flow-Chart.svg" width="350px" >
+<img src="assets/Slide-27-Flow-Chart.svg" height="400px" >
 
 
 
