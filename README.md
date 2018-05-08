@@ -390,11 +390,11 @@ To tell your program to repeat something, you use a tool called a **loop**. Loop
 
 Remember our `if` statement from the previous lesson? Let's loop it back on itself.
 
-<img src="assets/Slide-14-Flow-Chart.svg">
+<img src="assets/Slide-14-Flow-Chart.svg" width="350px">
 
 All we have to do is make one small (but very important) change: instead of advancing to the next bit of code after executing the block, we loop back to our condition.
 
-<img src="assets/Slide-6-Flow-Chart.svg" >
+<img src="assets/Slide-6-Flow-Chart.svg" width="350px">
 
 
 ---
