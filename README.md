@@ -444,7 +444,7 @@ When using a `while` loop, it's **very important** to plan out beforehand how yo
 ##### Test Yourself
 Take a look at the following example:
 
-<img src="assets/Slide-11-myString-Example.svg">
+<img src="assets/Slide-11-myString-Example.svg" width="350px">
 
 > Questions to consider:
 >
