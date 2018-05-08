@@ -444,7 +444,7 @@ When using a `while` loop, it's **very important** to plan out beforehand how yo
 ##### Test Yourself
 Take a look at the following example:
 
-<img src="http://circuits-assets.generalassemb.ly/prod/asset/4933/Slide-11-myString-Example.svg">
+<img src="assets/Slide-11-myString-Example.svg">
 
 > Questions to consider:
 >
@@ -453,7 +453,7 @@ Take a look at the following example:
 
 ##### Answer
 
-<img src="http://circuits-assets.generalassemb.ly/prod/asset/4934/Slide-12-myString-Annotated.svg">
+<img src="assets/Slide-12-myString-Annotated.svg">
 
 So each time we use `z += 1`, we increase the value of `z` so that eventually our condition, `z < 5`, will be false. If we increase `z` by one each time, there is no way that `z` will always be less than 5! This is our **"escape plan"** for this 'while' loop.
 
