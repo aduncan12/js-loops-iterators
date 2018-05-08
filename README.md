@@ -1,5 +1,5 @@
 
-# <img src="https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png"> Arrays and Loops 
+# <img src="https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png"> Arrays and Loops
 
 ### LEARNING OBJECTIVES
 *After this lesson, you will be able to:*
@@ -30,7 +30,7 @@ What are arrays? Watch this [intro video](https://generalassembly.wistia.com/med
 
 ---
 <a name="arrays-intro"></a>
-## Intro to Arrays 
+## Intro to Arrays
 As you learned in the intro video, variables cannot hold multiple values.
 
 Unfortunately, strings and numbers are not enough for most programming purposes.
@@ -124,7 +124,7 @@ Keep your console open; we will continue working with the `villains` array throu
 
 ---
 <a name="updating-arrays"></a>
-## Guided Practice: Accessing and updating elements in an array 
+## Guided Practice: Accessing and updating elements in an array
 
 #### Getting data from an array
 
@@ -180,7 +180,7 @@ All right! Now complete the following exercise in your console:
 1.  Replace `"Ursula"` with `"Scar"`, using the correct index number (remember indexes start at 0 in JS).
 
 	_Note: the console returns `"Scar"` because that is the newest value that was added to the array._
-	
+
 2.  Replace `"Captain Hook"` with `"Maleficent"`.
 
 3.  Now, type `villains` and press enter. Does your console look like this?
@@ -195,7 +195,7 @@ var villains = ["Cruella", "Scar", "Jafar", "Maleficent"];
 
 ---
 <a name="arrays-deep-dive"></a>
-## Array Deep Dive 
+## Array Deep Dive
 
 #### Length method
 
@@ -266,7 +266,7 @@ In your console:
 2.  Use the `push()` method to add the item "cheese": `favoriteFoods.push('cheese');`.
 
 	_Note: the console returns the new length of the array &mdash; `1`._
-	
+
 3.  Now add multiple new items at once: `favoriteFoods.push('pizza', 'rice', 'taco');`.
 4.  Type `favoriteFoods` and hit "enter" to see your final array. Does your array look like this?
 
@@ -346,11 +346,11 @@ Explore the the [full documentation for array methods](https://developer.mozilla
 
 #### Summary for each method:
 
-- `array.unshift();` 
+- `array.unshift();`
 	- Adds one or more elements to the front of an array and returns the new length of the array.
-- `array.shift();` 
+- `array.shift();`
 	- Removes the first element from an array and returns that element.
-- `array.splice();` 
+- `array.splice();`
 	- Adds and/or removes elements from an array.
 - `array.slice();`        
 	- Extracts a section of an array and returns a new array.
@@ -370,7 +370,7 @@ Remember, though, you'll never remember _every_ method. The important thing is t
 
 ---
 <a name="loops"></a>
-## Loops 
+## Loops
 
 #### Loops Intro
 What are loops and why are they useful? Take a look at this short [video](https://generalassembly.wistia.com/medias/p2hvzbq53x) to find out!
@@ -390,11 +390,11 @@ To tell your program to repeat something, you use a tool called a **loop**. Loop
 
 Remember our `if` statement from the previous lesson? Let's loop it back on itself.
 
-<img src="http://circuits-assets.generalassemb.ly/prod/asset/4819/Slide-14-Flow-Chart.svg">
+<img src="assets/Slide-14-Flow-Chart.svg">
 
 All we have to do is make one small (but very important) change: instead of advancing to the next bit of code after executing the block, we loop back to our condition.
 
-<img src="http://circuits-assets.generalassemb.ly/prod/asset/4820/Slide-6-Flow-Chart.svg" >
+<img src="assets/Slide-6-Flow-Chart.svg" >
 
 
 ---
@@ -464,7 +464,7 @@ Basically, we've changed the `while` loop so that it always runs for a fixed, co
 
 
 ---
-#### For Loop 
+#### For Loop
 This kind of setup is so useful, and gets used so frequently, that most languages include a special kind of loop used for just this kind of behavior, called a `for` loop.
 
 These `for` loops are very useful when we want to use a loop to do something with each item in an array. Watch this short [video](https://generalassembly.wistia.com/medias/gguspr8ong) to find out what that would look like.
@@ -475,7 +475,7 @@ Despite being one of the most basic ways to iterate through an array in JavaScri
 Let's make a few modifications to our `while` loop from earlier. As you can see, there are a couple of key ingredients to making our `for` loop work.
 
 
-<img src="http://circuits-assets.generalassemb.ly/prod/asset/4365/Slide-27-Flow-Chart.svg" >
+<img src="assets/Slide-27-Flow-Chart.svg" >
 
 
 
@@ -561,7 +561,7 @@ You can learn more about the differences between `for` and `while` loops [here](
 Let's look at a temperature converter for an example of a `for` loop.
 
 
-<img src="http://circuits-assets.generalassemb.ly/prod/asset/4366/Slide-34-Thermometer.svg">
+<img src="assets/Slide-34-Thermometer.svg">
 
 Suppose that we were given an array of starting values to work with &mdash; a group of temperatures in degrees Fahrenheit. Now let's say we want to convert them into another set of values &mdash; temperatures in degrees Celsius &mdash; which would then be stored in a separate array.
 
