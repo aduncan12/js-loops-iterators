@@ -453,7 +453,7 @@ Take a look at the following example:
 
 ##### Answer
 
-<img src="assets/Slide-12-myString-Annotated.svg">
+<img src="assets/Slide-12-myString-Annotated.svg" style="width: 50%">
 
 So each time we use `z += 1`, we increase the value of `z` so that eventually our condition, `z < 5`, will be false. If we increase `z` by one each time, there is no way that `z` will always be less than 5! This is our **"escape plan"** for this 'while' loop.
 
@@ -475,7 +475,7 @@ Despite being one of the most basic ways to iterate through an array in JavaScri
 Let's make a few modifications to our `while` loop from earlier. As you can see, there are a couple of key ingredients to making our `for` loop work.
 
 
-<img src="assets/Slide-27-Flow-Chart.svg" >
+<img src="assets/Slide-27-Flow-Chart.svg" style="width: 50%" >
 
 
 
@@ -561,7 +561,7 @@ You can learn more about the differences between `for` and `while` loops [here](
 Let's look at a temperature converter for an example of a `for` loop.
 
 
-<img src="assets/Slide-34-Thermometer.svg">
+<img src="assets/Slide-34-Thermometer.svg" style="width: 50%">
 
 Suppose that we were given an array of starting values to work with &mdash; a group of temperatures in degrees Fahrenheit. Now let's say we want to convert them into another set of values &mdash; temperatures in degrees Celsius &mdash; which would then be stored in a separate array.
 
@@ -628,7 +628,7 @@ Hint: Go read about the [Remainder Operator](https://developer.mozilla.org/en-US
 
 A typical output in the Chrome Dev Tools would look like this:
 
-<img src="https://i.imgur.com/avioQC8.png">
+<img src="https://i.imgur.com/avioQC8.png" style="width: 50%">
 
 #### Solution
 
