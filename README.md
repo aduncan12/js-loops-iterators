@@ -329,7 +329,6 @@ These are just a handful of the methods available to us.
 
 Let's do a quick mini-lab! Break up into groups of two or three. Each group will have five minutes to research one of these methods and then share with the class what that method does and how to use it.
 
-> Instructor note: Divide methods between groups so each method is covered.
 
 - `array.unshift();`
 - `array.shift();`
@@ -673,4 +672,3 @@ For an example of when loops would be useful in a real-life program, watch this 
 	- Eloquent JavaScript - [Data Structures - Arrays](http://eloquentjavascript.net/04_data.html)
 
 
-> Instructor note: When possible, provide a brief description of Additional Resources, classifying whether they are for advanced or beginner students.  
